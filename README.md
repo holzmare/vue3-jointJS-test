@@ -1,6 +1,6 @@
 # vue3-jointJS-test
 
-This template should help get you started developing with Vue 3 in Vite.
+Sample Project with Vue3 via vite and JoinJS+ (formerly RappidJS) to play around with.
 
 ## Recommended IDE Setup
 
